@@ -1,0 +1,109 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto/Roboto-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto/Roboto-Bold.ttf);
+    font-weight: 700;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+header,
+footer {
+    height: 60px;
+    background-color: rgb(2, 69, 42);
+    color: #000;
+}
+
+a {
+    padding: 10px;
+    line-height: 1.4;
+    text-decoration: none;
+    color: rgb(227, 112, 12);
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+.container {
+    width: 50%;
+    max-width: 1440px;
+    margin: auto;
+    /* border: red solid 2px; */
+}
+
+.nav__list {
+    display: flex;
+    justify-content: end;
+    margin: 0;
+    padding: 7px 10px;
+    list-style: none;
+}
+
+.nav__item {
+    padding: 5px;
+}
+
+.main-info {
+    display: flex;
+    justify-content: center;
+}
+
+.main-info__image {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+}
+
+.main-info__header {
+    padding: 55px 10px;
+}
+
+.main {}
+
+.section {}
+
+
+.footer {
+    padding: 15px 50px;
+}
+
+.github {
+    padding-left: 10px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rss__link{
+    padding: 0;
+    font-size: 1px;
+    line-height: 1;
+}
+
+.rss__logo {
+    width: 120px;
+    height: 45px;
+    margin: 5px 50px;
+}
