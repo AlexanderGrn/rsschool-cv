@@ -10,8 +10,6 @@ Alexander
 
 ## About me
 
-
-
 ## Skills
 
 - HTML
@@ -27,12 +25,14 @@ Alexander
 ## Education
 
 #### [codeCademy:]()
+
 - HTML
 - CSS
 - JavaScript
 - JavaScript
 
 #### [freeCodeCamp:]()
+
 - Basic JavaScript - 39 / 113
 - ES6 - 27 / 29
 
@@ -42,5 +42,4 @@ Alexander
 
 ## English language
 
-A2-B1
-
+B2 (EF SET 59/100)
